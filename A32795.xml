@@ -1,0 +1,747 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memorial for magistrates a sermon preached at Christ-Church in the city of Bristoll on the twelfth day of October at the assizes or goal-delivery / by John Chetwynd.</title>
+            <author>Chetwynd, John, 1623-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32795</idno>
+            <idno type="STC">Wing C3797</idno>
+            <idno type="STC">ESTC R23993</idno>
+            <idno type="EEBO-CITATION">07937639</idno>
+            <idno type="OCLC">ocm 07937639</idno>
+            <idno type="VID">40558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1201:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memorial for magistrates a sermon preached at Christ-Church in the city of Bristoll on the twelfth day of October at the assizes or goal-delivery / by John Chetwynd.</title>
+                  <author>Chetwynd, John, 1623-1692.</author>
+               </titleStmt>
+               <extent>[3], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ecclesiastes XII, 13-14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40558:1"/>
+            <pb facs="tcp:40558:1" rendition="simple:additions"/>
+            <p>A MEMORIAL FOR <hi>Magiſtrates.</hi>
+            </p>
+            <p>A SERMON Preached at <hi>Chriſt-Church</hi> in the City of <hi>BRISTOLL.</hi> on the Twelfth day of <hi>October,</hi> at the Aſsizes or Goal-Delivery.</p>
+            <p>By <hi>JOHN CHETWYND,</hi> Maſter of Arts, One of the Prebends of the <hi>Cathedral,</hi> and Vicar of <hi>Temple</hi> in the City of <hi>BRISTOLL.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 Sam. 23.3.</hi>
+               </bibl> The God of <hi>Iſrael</hi> ſaid, the Rock of <hi>Iſrael</hi> ſpake to me. He that Ruleth over Men muſt be Juſt, Ruling in the Fear of God.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Parkhurſt,</hi> at the Bible and Three Crowns in the Lower End of <hi>Cheap-ſide,</hi> near <hi>Mercers Chappel,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40558:2" rendition="simple:additions"/>
+            <pb facs="tcp:40558:2"/>
+            <head>TO THE RIGHT WORSHIPFUL Thomas Earle <hi>Eſq;</hi> MAYOR. The Worſhipful the Aldermen, Sheriffs, and Council of the City of <hi>BRISTOL,</hi> My much reſpected Patrons.</head>
+            <opener>
+               <salute>Moſt Honoured Sirs,</salute>
+            </opener>
+            <p>AS a Teſtimony of my Gratitude for my Paſto<g ref="char:EOLhyphen"/>ral Charge in your City, which I enjoy by your Patronage, and that by a Maiden Vote; and my Tueſdayes Lecture which I preach by your gift: I have made bold to preſent this following diſcourſe un<g ref="char:EOLhyphen"/>to you, which was for the moſt part preacht by your appointment, at your laſt Aſsizes. The ſubject whereof are Neceſſary Truths, to be minded by all but eſpecially by ſuch as are already Magiſtrates, or in the
+<pb facs="tcp:40558:3"/> line of Magiſtracy as you all are, and ſo concern'd in the Publique Good and Welfare of this Famous and Honourable City.</p>
+            <p>Shall you pleaſe at your leaſure time to peruſe and conſider the particulars therein contained, and with a Conſcientious care to follow the Directions God gives you, and this diſcourſe will mind you of. You will without queſtion be to your great Comfort here, and god Account hereafter: Such as <hi>Mordecai</hi> was ſeek<g ref="char:EOLhyphen"/>ing the Welfare of the People committed by His Ma<g ref="char:EOLhyphen"/>jeſties Gracious Charter to your Charge, and ſo doing acceptable to the multitude of your Brethren, which is and ſhall be the Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your much obliged, and Thankful Beneficiary</hi> John Chetwynd.</signed>
+               <dateline>
+                  <date>Novemb. <hi>21th. 1681.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:40558:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>Eccleſ. 12.13, 14.</hi>
+               </bibl>
+               <q>
+                  <p>
+                     <bibl>
+                        <hi>13.</hi>
+                     </bibl> Let us hear the Concluſion of the whole matter; Fear God and keep his Commandements, for this is the whole duty of man.</p>
+                  <p>
+                     <bibl>
+                        <hi>14.</hi>
+                     </bibl> For God ſhall bring every work into judg<g ref="char:EOLhyphen"/>ment, and every ſecret thing, whether it be good or whether it be evil.</p>
+               </q>
+            </epigraph>
+            <p>COnſidering the weightyneſs of this days work, I ſhall ſtudy that brevity that may not be obſcure. And though I will not undertak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be your in<g ref="char:EOLhyphen"/>ſtructer in the things you know not, yet give me leave to be your remembrancer, to ſtir up your minds to the practiſe of what you know. That ſo this ſolemn aſſembling in Gods Houſe of Prayer (and that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the beginning of them, as it is in it ſelf commendable, ſo may it be for the future imi<g ref="char:EOLhyphen"/>tated, may be more than a Punctilio of State, and point of Honour, even a uſefull means for the better carrying on of the great work of adminiſtring Juſtice. Gods Aſſiſtance be<g ref="char:EOLhyphen"/>ing implored by our Prayers to him, and Gods Directions at<g ref="char:EOLhyphen"/>tended and regarded, and obtained by our hearing from him.</p>
+            <p>It hath always been the courſe, even of Heathen Magi<g ref="char:EOLhyphen"/>ſtrates, to have their recourſe unto the divine powers, before they undertook any matters of importance, to enter the <hi>Ca<g ref="char:EOLhyphen"/>pitol</hi> firſt before the <hi>Senate,</hi> and to Sacrifice firſt before they Sentenced; <hi>A Jove principium,</hi> to implore divine aſſiſtance
+<pb n="2" facs="tcp:40558:4"/> and direction, and there is ſtill great reaſon ſo to do, ſince there is no caſe ſo bad but ſome will plead it; No man ſo good but ſome will ſlander him; Nothing ſo falſe but ſome will ſwear it.</p>
+            <p>A treacherous <hi>Ziba</hi> with a falſe probable Tale, and a face preſent may divert a <hi>David</hi> from the right line of Juſtice, to entertain prejudices, and pronounce a wrongfull and unjuſt ſentence againſt an innocent and true hearted <hi>Mephiboſeth.</hi> Magiſtrates indeed are called Gods, and uſually do know much, but yet they are but Men,<note place="margin">
+                  <hi>Act.</hi> 24.</note> and know not all things, and may be impoſed upon by the Eloquent Oratory of a well ſpoken <hi>Tertullus,</hi> accompanied with ſuch witneſs as thoſe <hi>Jews</hi> were, who were ready to atteſt what <hi>Tertullus</hi> ſpake,<note place="margin">
+                  <hi>ver.</hi> 9.</note> and therefore Magiſtrates have need to implore and receive divine aſſiſtance, that they may be as an Angel of God, to diſcern true from feigned, and as <hi>Solomon</hi> did, to diſtinguiſh between the true and the falſe Mother. And this Wiſdom was the return of <hi>Solomons</hi> Prayer, and Gods bounty, who hath promiſed, and will not be worſe than his word, to give it to thoſe that ask it. And hath left directions in his Holy Scriptures,<note place="margin">
+                  <hi>Jam.</hi> 1.4.</note> for the right Regulating of all Humane Tranſactions, whether they are Perſonal or Publique, Civil Adminiſtrations or Eccleſiaſtical Offices: which Holy Scriptures are ſufficiently able to make every man of God perfect,<note place="margin">2 <hi>Tim.</hi> 3.17.</note> whether the private Chriſtian in his perſonal or relative concerns, or the Publique Officers, whether Miniſters in the Church, or Magiſtrates in the State, who bear his Name:<note place="margin">
+                  <hi>Pſal.</hi> 82.6.</note> 
+               <hi>I have ſaid ye are Gods,</hi> and are his De<g ref="char:EOLhyphen"/>puties, even Gods among Men, who though made of the ſame Mettal with their Brethren, yet are Gilded over, and ſhine as Stars from the Sun, in a Luſtre received from God and the King; Whoſe Image, Name and Office they bear, being deputed by him, as <hi>Mordecai</hi> was, to rule their Brethren, and armed with a Sword to enable them thereto.<note place="margin">
+                  <hi>Rom.</hi> 13. <hi>Pſal.</hi> 115.56.</note> And therefore may not ſit as thoſe Idols that <hi>have eyes and ſee not, mouths and ſpeak not.</hi> Or as idle cyphars in Gods chain, and therefore have need of Gods direction, which is to be had no where ſo clear and plain, as from Gods own mouth, Scripture and Sanc<g ref="char:EOLhyphen"/>tuary Inſtructions.</p>
+            <pb n="3" facs="tcp:40558:4"/>
+            <p>And amongſt them there is none more fit, nor more full than the words firſt read, which are</p>
+            <p>The Sum, Compendium, Epitome and Concluſion of what ever is written, or may be heard.</p>
+            <q>Fear God and keep his Commandements.</q>
+            <p>The words you know are Gods by <hi>Solomon</hi> his Amanuenſis, who having run through the whole circle of all ſublunary en<g ref="char:EOLhyphen"/>joyments, and creature contentment. and ſuckt out the very quinteſſence of all humane delights; That the knowledge of the wiſeſt of meer mortal men, and the wealth of the richeſt of all Earthly Potentates could furniſh him with, upon a ſe<g ref="char:EOLhyphen"/>rious review of all his paſt experiments, he comes to acquaint us with what himſelf had found. That
+<q>All is vanity: vanity of vanities, ſaith the Preacher, all is vanity.</q>
+            </p>
+            <p>This he lays down in the firſt chapter of this book, at the ſecond verſe, as the Doctrine of the whole book proſecutes in the reſt of the chapters by induction of particulars; (which I may not now ſpeak unto) and in the eighth verſe of this chap<g ref="char:EOLhyphen"/>ter pronounceth again, as ſufficiently evidenced.</p>
+            <q>Vanity of vanities, ſaith the Preacher, all is vanity.</q>
+            <p>And having interpoſed in the four next verſes.</p>
+            <p n="1">1. The excellency of the Scriptures compiled by himſelf, and others of Gods <hi>Amanuenſes:</hi> who were maſters of the aſſemblies, and had received them from that One Shepherd, <hi>viz.</hi> Jeſus Chriſt, the wiſdom of the Father, for their uſeful<g ref="char:EOLhyphen"/>neſs and profitableneſs to us, are as Goads to ſtir up, and nayls to faſten.</p>
+            <p n="2">2. The vanity of the itch of humane ſcribling, and weari<g ref="char:EOLhyphen"/>ſomneſs of reading ſuch writing, ſuch as are the Popes Canons and Decretals, and other Popiſh Trumpery, as likewiſe idle vitious and corrupting Plays and Romances: which makes men neglect at leaſt, if not nauſeate divine truths.</p>
+            <p>Of <hi>Caroloſtadius</hi> it is reported by <hi>Luther,</hi> that he was eight years Dr. in Divinity before he had read One Word in the Scripture.<note place="margin">Menſ. Col.</note>
+            </p>
+            <p>So that the moſt of Students among the Papiſts were well by one compared to a man knawing of a Flint, when he had
+<pb n="4" facs="tcp:40558:5"/> good bread by him, which he neglected to make uſe of.</p>
+            <p>
+               <hi>Solomon</hi> having thus laid down the excellency of God's, and vanity of man's writings.</p>
+            <p>He now comes in the cloſe of this book, the words of my Text to lay down. The Sum, End, Concluſion, the Reca<g ref="char:EOLhyphen"/>pitulation, the Epitome, Compendium and Abridgment of what ever was written by God, in this or other books of Scripture, or was read or heard by man. The ſcope at which all tended too! <hi>Fear God and keep his Commandements</hi>
+            </p>
+            <p>All the lines that may be drawn from the whole circumfe<g ref="char:EOLhyphen"/>rence of divine truths, written and revealed in this, and all other books of Scripture, which holy men of God, which were moved by the Holy Ghoſt did, or had or ſhould write, did all meet in this Center; <hi>Fear God and keep his Commande<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>You may not expect then.</p>
+            <p>Right Worſhipfull and Beloved, a full and compleat hand<g ref="char:EOLhyphen"/>ling of them, on which a Miniſter might with great eaſe and more profit preach his whole life time, than that <hi>German</hi> Pro<g ref="char:EOLhyphen"/>feſſor of Divinity did, who was Twenty-five Years Reading in his Publique Lectures, on the Firſt of <hi>Iſaiah,</hi> and had not finiſht it. There being nothing in the whole compaſs of Di<g ref="char:EOLhyphen"/>vinity but what may be reduced to the <hi>Fear of God, and keep<g ref="char:EOLhyphen"/>ing His Commandements.</hi> The one as the Root, the other as the Fruit: The one as the Fountain, the other as the Streams of our practical complyance with Gods will, it being as our Tranſlators ſupply it, <hi>the whole duty of man.</hi> Which Tran<g ref="char:EOLhyphen"/>ſlation: the beſt of all Tranſlations was, by the incomparable Piety of King <hi>James,</hi> and the indefatigable pains, and accu<g ref="char:EOLhyphen"/>rate care of the moſt Learned Biſhops, Doctors and Divines of that age, moſt happily performed, and may not without great preſumption be ſlightly ſpoken off.</p>
+            <p>Or as the <hi>Spaniſh: toda eccellentia.</hi>
+            </p>
+            <p>Or as <hi>Piſcator: Hoc eſt omnium Hominum,</hi> this belongs to all men.</p>
+            <p>Many directions in Scripture are bounded and limited by ſe<g ref="char:EOLhyphen"/>veral circumſtances to particular perſons, but this concerns all, and therefore to be regarded by all, as that which is the
+<pb n="5" facs="tcp:40558:5"/> alone <hi>Cynoſure,</hi> to guide us through the waves of a tempeſtu<g ref="char:EOLhyphen"/>ous Sea of troubles, dangers, labyrinths in this world, unto the Port and Haven of heavenly happineſs.</p>
+            <p>Text: <hi>Let us hear the Concluſion of the whole matter; Fear God and keep his Commandement: for this is the whole duty of man.</hi>
+            </p>
+            <p>As the skilfull and provident husbandman firſt rids his ground of Thorns, and then ſowes his Seed.</p>
+            <p>So doth <hi>Solomon</hi> in this book (of which the words read are the Compendium,) labour to remove from the hearts of men the love, and ſtudy and endeavour after vanity, by which the minds of all by nature are preoccupied and foreſtalled, eſpe<g ref="char:EOLhyphen"/>cially by this miſtaken apprehenſion, that they may at the ſame time embrace the Study of Earthly Vanity and Heavenly Pie<g ref="char:EOLhyphen"/>ty.</p>
+            <p>There are none that do not by natural inſtinct deſire the avoiding of eternal pains, and the enjoyment of everlaſting happineſs; It being the property of natural affection, to deſire its own preſervation.</p>
+            <p>And by the ſame natural inſtinct are men carried after the purſuit of worldly things, vanities indeed, though the only ſubſtantial realities in their conceit;<note place="margin">
+                  <hi>Prov.</hi> 10.15.</note> 
+               <hi>The Rich mans wealth is his ſtrong Tower in his own conceit.</hi> Some haſten after Plea<g ref="char:EOLhyphen"/>ſures, others after Riches, a third after Honour, and ſo far the Doctrine Profeſſion and external Practiſe of Piety ſhall be complyed with, as they croſs not thoſe Appetites, and much may be, and is often done according to Goſpel preſcriptions, as was by <hi>Herod,</hi> who reverenced <hi>John Baptiſt,</hi> heard him gladly, and did many things. Yea many times ſome will ſuf<g ref="char:EOLhyphen"/>fer much, ſo they may enjoy their carnal deſires. But alas!</p>
+            <p>Theſe fooliſhly perſwade themſelves to joyn thoſe things to<g ref="char:EOLhyphen"/>gether that are inconſiſtent. Sooner will Heaven mingle with Earth, the Fire with Water <hi>coaleſce</hi> and remain at peace to<g ref="char:EOLhyphen"/>gether, than the ſtudy and love of Piety with the ſtudy and love of Earthly Vanity.</p>
+            <p>True it is that men may and do by their eager proſecution of earthly vanity, deprive themſelves of the happineſs both of this, and the future life.</p>
+            <pb n="6" facs="tcp:40558:6"/>
+            <p>But to enjoy both together, let them uſe what diligence and skill they can, they ſhall never attain it. <hi>For no man can ſerve two ſo contrary Maſters. No man can ſerve God and Mam<g ref="char:EOLhyphen"/>mon.</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 3.19. 1 <hi>Joh.</hi> 2.14.</note> 
+               <hi>No man can ſerve God and his Belly. No man can love God and the World.</hi> For God is a jealous God, and will ad<g ref="char:EOLhyphen"/>mit no rival. He is as the true Mother, who will have all or nothing.</p>
+            <p>
+               <hi>Solomon</hi> then having in all the fore-going part of this book, endeavoured to perſwade men from the love and ſtudy of earthly vanities. In theſe two laſt verſes he ſhews us the ſum and end of the whole, of all our learning and hearing the right method and courſe of happineſs both here and hereafter.</p>
+            <p>In which words we have to conſider;
+<list>
+                  <item>1. The direction laid down.
+<list>
+                        <item>
+                           <hi>Fear God and keep his Commandements.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2. This direction preſt by three arguments.
+<list>
+                        <item>1. It's the concluſion of the whole matter.</item>
+                        <item>2. It's the whole of man.</item>
+                        <item>3. God will bring all to judgment.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>I ſhall ſpeak to all theſe particulars, firſt by way of Doctrine, and then by way of Application.</p>
+            <p n="1">1. The direction laid down; <hi>Fear God and keep his Com<g ref="char:EOLhyphen"/>mandements.</hi>
+            </p>
+            <p>This compendious ſum of Gods Counſel, diſcovers Gods admirable Wiſdom in revealing his mind ſo fully, and yet ſo ſuccinctly in reference to our duty and way to happineſs.</p>
+            <p>It was the wonderfull wiſdom of God to comprehend in the Decalogue all that is to be done by us, in relation to God and our ſelves, and our Neighbours. More wonderfull in his con<g ref="char:EOLhyphen"/>tracting theſe ten words into two; <hi>Love to God</hi> and <hi>Love to our Neighbour</hi> neither is it leſs wonderfull when the Goſ<g ref="char:EOLhyphen"/>pel is ſum'd up in this ſhort expreſſion. <hi>Repent! For the Kingdom of God is at hand</hi>
+            </p>
+            <p>Now the uſe that we are to make of this ſhort ſum is this. That as Travailers have an eye to their Geographical Charts, which they carry about with them, unto which they often
+<pb n="7" facs="tcp:40558:6"/> look to direct them in their way, ſo ought Chriſtians often to mind this Sum and Compendium of their duty, unto which they muſt have reſpect to guide them in their way to the Hea<g ref="char:EOLhyphen"/>venly Kingdom, and which, as another <hi>Jethro,</hi> might direct them through the Wilderneſs of this World, to their Hea<g ref="char:EOLhyphen"/>venly <hi>Canaan.</hi>
+            </p>
+            <p>Such an other Compendium of our duty we have in the de<g ref="char:EOLhyphen"/>ſcription of <hi>Job: He feared God, and departed from evil.</hi>
+               <note place="margin">
+                  <hi>Job.</hi> 1.</note> And in that expreſſion of St. <hi>Peter:</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 10.</note> 
+               <hi>He that feareth God and worketh Righteouſneſs.</hi>
+            </p>
+            <q>Fear God and keep his Commandements.</q>
+            <p>In which we have
+<list>
+                  <item>1. The Fountain, Cauſe and Root: <hi>Fear God,</hi>
+                  </item>
+                  <item>2. The Effect, Branches and Streams: <hi>and keep his Com<g ref="char:EOLhyphen"/>mandements.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The Fountain, Cauſe and Root: <hi>Fear God,</hi>
+            </p>
+            <p>
+               <hi>Solomon</hi> tells us <hi>Prov.</hi> 1.17.<note place="margin">
+                  <hi>Prov.</hi> 1.17.</note> 
+               <hi>That the fear of God is the be<g ref="char:EOLhyphen"/>ginning of Wiſdom: Caput Sapientiae.</hi> Now as from the head, the ſeat of ſence, all ſence is derived through all the Members of the body, ſo from the inward fear and reverence of God, there flowes as it were the Senſe and Life of all good actions, and therefore our firſt care ſhould be to get this reverential fear of him, that we may Worſhip him according to his own preſcription, not our own inventions, know him from his word, believe on him, call on him, and truſt upon him, which is the ſubſtance of the Firſt Table.</p>
+            <p>Generally men place all Holineſs in the works of the Second Table, as in Charity, Liberality, Juſtice, giving to every one his due, though they live in ignorance, and total neglect of Gods worſhip and inſtituted ſervice, which is, as if we ſhould count a man living when his head was off. For what the head is to the body, that is the fear of God to all Religion, to all holy and righteous practiſes.</p>
+            <p>Now the fear of God is an awfull reverence of Gods great and Glorious and Gracious Majeſty; Leaſt we offend him by ſin: Leaſt we ſmart when we have ſinned. This is as in the Vulgar, <hi>Timor</hi> a fear of ſin, or as <hi>Tremellius, Pavor</hi> a fear for ſin. This in both its ſenſes ſhould fill our hearts, and awe
+<pb n="8" facs="tcp:40558:7"/> our Souls. Fear him <hi>as Sons,</hi> becauſe of his Fatherly good<g ref="char:EOLhyphen"/>neſs; Stand in awe of him <hi>as Servants,</hi> becauſe of his Maſter<g ref="char:EOLhyphen"/>ly Authority, Power, Greatneſs and Goodneſs, and both of theſe degrees of holy fear, both of Sons through <hi>love,</hi> and of Servants through <hi>awfulneſs.</hi> May <hi>Solomon</hi> be thought to have reference unto in this direction? And <hi>Jehoſaphat</hi> in his charge given unto his Deligated Judges.</p>
+            <q>
+               <note place="margin">2 <hi>Chron.</hi> 19.7.</note>Let the fear of the Lord be upon you, take heed and do it.</q>
+            <p>He layes before them the fear of God to draw them to a Holy and Religious and Conſcientious reſpect, to diſcharge the duties incumbent on them, by reaſon of their Office. Wherefore let the fear of God be upon you; <hi>Timor Dei vo<g ref="char:EOLhyphen"/>biſcum, Pavor Dei inſit.</hi> And this will be an excellent means to inable all, but eſpecially intruſted Magiſtrates to diſcharge their places.</p>
+            <p>
+               <hi>For the fear of God is the beginning and end of Wiſdom.</hi> And <hi>Job</hi> tells us of himſelf, that it kept him from doing un<g ref="char:EOLhyphen"/>juſtly. <hi>Deſtruction from the Lord was a terror to me.</hi> And when this fear is wanting what can be expected,<note place="margin">
+                  <hi>Job</hi> 31.23.</note> but all man<g ref="char:EOLhyphen"/>ner of ſin and wickedneſs? the want of it being the evident ſource of all evil.<note place="margin">
+                  <hi>Pſal.</hi> 36.3. <hi>Gen.</hi> 20.11.</note> Hence <hi>Abraham</hi> in <hi>Gerar</hi> did expect the raviſhing of his Wife, and murder of Himſelf, becauſe he thought <hi>there was no fear of God in that place.</hi>
+            </p>
+            <p>Time will not permit the preſſing on of this firſt branch of the direction, by the conſideration of Gods:
+<list>
+                  <pb n="9" facs="tcp:40558:7"/>
+                  <item>1. Command</item>
+                  <item>2. Attributes of
+<list>
+                        <item>Omnipotency.</item>
+                        <item>Omniſciency.</item>
+                        <item>Goodneſs.</item>
+                     </list>
+                  </item>
+                  <item>3. Relations to the Maſter Father. <hi>&amp;c.</hi>
+                  </item>
+                  <item>4. Promiſes of all good
+<list>
+                        <item>Spiritual</item>
+                        <item>Temporal</item>
+                        <item>Eternal.</item>
+                     </list>
+                  </item>
+                  <item>5. The excellency of the grace it ſelf, as being
+<list>
+                        <item>1. Needfull, without which we cannot ſerve him.</item>
+                        <item>2. Acceptable to God, without which we can<g ref="char:EOLhyphen"/>not pleaſe him.</item>
+                        <item>3. Comfortable to our ſelves, freeing us from all baſe diſturbing and diſtracting fears of Men and Devils.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Paſſing by theſe reaſons and arguments by which I might enforce this Firſt Branch of the Direction: I come to the Se<g ref="char:EOLhyphen"/>cond.</p>
+            <p n="2">2. The Effect of that cauſe.</p>
+            <q>And keep his Commandements.</q>
+            <p>From our awfull reſpect to, and reverential fear of the Di<g ref="char:EOLhyphen"/>vine Majeſty, then doth and will ariſe a reſolution, and endea<g ref="char:EOLhyphen"/>vour to keep Gods Commandements, to obey him in every part and poynt of Duty, which if we do we ſhall live for ever.</p>
+            <p>We cannot indeed now do it in a legal way, as <hi>Adam</hi> was bound to and enabled for. But we may in an Evangelical way, ſuch as God allows of and accepts; Wiſh well to ex<g ref="char:EOLhyphen"/>act obedience, as <hi>David</hi> did. <hi>Pſal.</hi> 119.45.6.</p>
+            <q>
+               <p>Thou haſt commanded me to keep thy Precepts diligently.<note place="margin">
+                     <hi>Pſal.</hi> 119.46.</note>
+               </p>
+               <p>O that my ways were directed to keep thy ſtatutes.</p>
+            </q>
+            <p>
+               <hi>Then ſhall I not be aſhamed, when I have reſpect to all thy Commandements.</hi> And then be doing as we can, for affection without endeavour is as <hi>Rachel</hi> beautifull but barren.</p>
+            <p>Let us be doing at every thing as well as at any thing: We may not be <hi>Funambuli virtutum,</hi> ſuch as go in a narrow tract of obedience. No: Our Obedience muſt be Univerſal, ex<g ref="char:EOLhyphen"/>tending
+<pb n="10" facs="tcp:40558:8"/> to the compaſs of the whole,<note place="margin">
+                  <hi>Jam.</hi> 2.</note> which is but one copu<g ref="char:EOLhyphen"/>lative, and then as St. <hi>Auguſtin</hi> well notes. <hi>Beati ſunt q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Praecepta faciunt, etiamſi non perficiunt.</hi>
+            </p>
+            <p>They are bleſſed who do as they can, though they can but under do. — And as St. <hi>Bernard. In libro tuo ſcribuntur Om<g ref="char:EOLhyphen"/>nes, qui quod poſſunt faciunt, etſi quod debent non poſſunt;</hi> All are written, O Lord in thy book, who do what they can, though they cannot do what they ought.</p>
+            <p>This Book of <hi>Eccleſiaſtes</hi> begins with <hi>All is vanity,</hi> and ends with <hi>Fear God and keep his Commandements.</hi> Now if that ſentence were knit to this which <hi>Solomon</hi> reſerved for the end, as the Haven of reſt after the Turmoyls of vanity, it would be like and in effect that, which Chriſt ſaid to <hi>Mar<g ref="char:EOLhyphen"/>tha; Thou art troubled about many things, but one thing is ne<g ref="char:EOLhyphen"/>ceſſary.</hi>
+            </p>
+            <p>That which troubleth us <hi>Solomon</hi> calls vanity, that which is neceſſary he calls the <hi>fear of God and keeping his Commande<g ref="char:EOLhyphen"/>ments;</hi> From that to this ſhould be every mans Pilgrimage in this World- We begin at <hi>vanity,</hi> and never know that we are vain, till we come to learn this Leſſon, to <hi>fear God and keep his Commandements.</hi> In which I ſhall touch as the ſtreights of time will permit.</p>
+            <list>
+               <item>1. The Act: <hi>Keep</hi>
+               </item>
+               <item>2. The Object: <hi>His Commandement.</hi>
+               </item>
+            </list>
+            <p n="1">1. The Act: <hi>Keep.</hi>
+            </p>
+            <p>A Comprehenſive word that contains in it all the Chriſtians Duty, in reference to Gods will. The effect of a right fear of God; <hi>viz.</hi> As the <hi>Pſalmiſt</hi> expreſſeth it: <hi>The keeping his Covenant,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 103.17.18.</note> 
+               <hi>the remembring his Commandements to do them.</hi> So that it implyes and contains under it.</p>
+            <p n="1">1. A Receiving by the Ear or Eye.</p>
+            <p>
+               <note place="margin">
+                  <hi>Rev.</hi> 2.7.</note>
+               <hi>He that hath an Ear to hear, let him hear what the Spirit ſay<g ref="char:EOLhyphen"/>eth to the Churches.— He that turneth away his ear from hearing the Law,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 28.9.</note> 
+               <hi>his Prayer ſhall be an abomination;</hi> That willfully ſlights the opportunities of hearing, and frames excuſes, truſting to their good Prayers (they ſay) they make at home, and conceiving that they can beſtow their time better elſewhere, their Prayers ſhall be abominable. It were well, and much to
+<pb n="11" facs="tcp:40558:8"/> be deſired, that ſuch would read and ſeriouſly conſider what they may find written. <hi>Prov.</hi> 1. from the 24th. <hi>ver.</hi> to the end of the Chapter.</p>
+            <p n="2">2. A retaining in their heads, minds and memories, to know and underſtand them: To hear without underſtanding is but loſt labour, and therefore God hath ſet up Maſters of Aſſem<g ref="char:EOLhyphen"/>blies, whoſe work it is, and whoſe care it ought to be, to do as thoſe we read of in <hi>Ezra</hi> 8.7. <hi>That cauſed the people to un<g ref="char:EOLhyphen"/>derſtand the Law.</hi> And we our ſelves ought to pray as <hi>David.</hi>
+               <note place="margin">
+                  <hi>Ezra</hi> 8.7.9. <hi>Pſal.</hi> 119.27.</note> 
+               <hi>Make me to underſtand the way of thy Precepts.</hi>
+            </p>
+            <p n="3">3. A keeping in our hearts to affect us, and operate upon us, and to change us into its own likeneſs, as the graft doth the nature of the ſtock, as the loave doth the meal, to leave in it a relliſh of it ſelf. This <hi>David</hi> tells us,<note place="margin">
+                  <hi>Pſal.</hi> 119.11.</note> that he had <hi>hid Gods word in his heart, that he might not ſin againſt God.</hi> And this Saint <hi>Paul</hi> adviſeth us to let <hi>the word of Chriſt dwell in us:</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.16.</note> not as a gueſt or ſtranger paſs through, but as a dweller ma<g ref="char:EOLhyphen"/>king its abode with us.</p>
+            <p n="4">4. A frequent having them in our mouths, to ſpeak of them, and declare them, and Communicate the knowledge of them to others, and this is not only the duty of Gods Miniſters, who are to d clare the whole Counſel of God. But likewiſe of private <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtians, who are ſo <hi>admoniſh one another,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.16. <hi>Deut.</hi> 4.10. <hi>&amp;</hi> 6.7.</note> to <hi>teach their Children,</hi> and to <hi>talk of them</hi> — But eſpecially <hi>to keep them.</hi>
+            </p>
+            <p n="5">5. In our deeds and works to practiſe them; and this indeed is the perfection of all the reſt: For all the reſt may be done, and we never the better.</p>
+            <q>If you know theſe things, then happy are ye if ye do them.</q>
+            <p>Other things are neceſſary, but yet, without this, of no avail, yea miſchievous and dangerous, heightning our ſin to a pre<g ref="char:EOLhyphen"/>ſumptuous contempt, and ſo encreaſing our ſtripes. He that knows his Maſters will and doth it not, ſhall be beaten with more ſtripes.</p>
+            <p>Only they know profitably that practiſe Conſcionably, and ſhall be bleſſed in their doing. The <hi>Pſalmiſt</hi> tells us;<note place="margin">
+                  <hi>Pſal.</hi> 15.5.</note> 
+               <hi>He that doth theſe things ſhall never be moved.</hi> Its not he that knoweth them, or ſpeaketh of them, but he that doth them.</p>
+            <pb n="12" facs="tcp:40558:9"/>
+            <p>For as we judge of the corporal health of the Heart, not by the words of the Mouth, or colour of the Countenance, but Pulſe of the Arm. So judgment is to be made of the Spiritual ſoundneſs and uprightneſs of the Soul, not ſo much by words or looks as by the fruits of the hand.<note place="margin">
+                  <hi>Mat,</hi> 7.21. <hi>Joh.</hi> 13.17.15.8, 9.</note> 
+               <hi>Not every one that ſaith Lord, Lord, ſhall enter into the Kingdom of Heaven, but he that doth the will of my Father which is in Heaven.</hi> And if <hi>ye know theſe things then happy are ye if ye do them.</hi> And <hi>here<g ref="char:EOLhyphen"/>in are ye my Diſciples, if ye bring forth much fruit.</hi>
+            </p>
+            <p>So that if a man had as great skill in Divinity, as <hi>Varro</hi> is reported to have in Philoſophy, who read ſo much that it was admired that he could write any thing, and yet wrote ſo much that another could hardly read, though he ſhould ſpeak with the tongue of Men and Angels,<note place="margin">1 <hi>Cor.</hi> 13.1.</note> yet if without Charity, which is the fulfilling of the Law, all would be worth nothing.</p>
+            <p n="2">2. The Object: <hi>His Commandements.</hi>
+            </p>
+            <p>Now Gods Commands are made known unto us by</p>
+            <p n="1">1.<note place="margin">
+                  <hi>Ro.</hi> 2.14.</note> The Law of Nature Engraven in mens hearts.</p>
+            <p n="2">2. The Scriptures written, and ſo Gods Commandements revealed in them, are either
+<list>
+                  <item>1. Moral. The Ten Commandements comprehended in theſe two things.
+<list>
+                        <item>1. Love to God.</item>
+                        <item>2. Love to our Neighbour.</item>
+                     </list>
+                  </item>
+                  <item>2. Evangelical. Such as are.
+<list>
+                        <item>1. Repentance.</item>
+                        <item>2. Faith.</item>
+                        <item>3. Self-denyal.</item>
+                        <item>4. Taking up the Croſs.</item>
+                        <item>5. Imitations of Chriſt.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>All which Commands both Moral and Evangelical ceaſe with time, except the firſt, but that runs Parallel with Eternity. God will be our God for ever, all the other will ceaſe: For in the World to come, their will be no humane Policy or Go<g ref="char:EOLhyphen"/>vernment<g ref="char:punc">▪</g> or External Worſhip.</p>
+            <p n="3">3. Gods Deputies.</p>
+            <pb n="13" facs="tcp:40558:9"/>
+            <p>Gods will and commands are made known to us by thoſe Rulers and Magiſtrates,<note place="margin">
+                  <hi>Rom.</hi> 13.</note> which he hath ordained to rule over us; whoſe determination of things indifferent left in their power to diſpoſe and order, is and ought to be eſteemed as Gods will, made known by their Mouth, and obeyed for Conſcience.</p>
+            <p>The Particular Rules of Government and Methods in judi<g ref="char:EOLhyphen"/>cial proceedings, are Gods will made known by them; when they are not contrary to Gods expreſs will, and are to be obey<g ref="char:EOLhyphen"/>ed for Conſcience ſake, which calls for a Ready Compliance in an <hi>Actual Performance, and knows no ſuch contradictory chi<g ref="char:EOLhyphen"/>maera, as a Paſſive Obedience.</hi> It was a Rule of St. <hi>Bernard's,</hi> and is a moſt true one, and of excellent uſe; <hi>Eum quem pro Deo habemus in terris, debemus audire in iis, quae non ſunt contra Deum.</hi> That is, him, whom we have for a God on earth, we ought to obey in all things, not contrary to Gods will.</p>
+            <p>Our Saviour Chriſt into who hands all power is committed, and who is made the head of all things. <hi>Mat.</hi> 28.18. <hi>Eph.</hi> 1.21, 22. Did not himſelf inſtitute either.</p>
+            <p n="1">1. The particular modes of Judicials, as to the Govern<g ref="char:EOLhyphen"/>ment and Regulation of matters in the Civil State, but only the general Rules of Juſtice and Equity, which particulars he left to the diſpoſal of Kings and Governours, which Rule by him, under him, and for him. Neither did he tye them up to the Judicials of <hi>Moſes,</hi> but left them at liberty, as to the circumſtances of Policy to their own Prudence and Wiſdom. Or,</p>
+            <p n="2">2. The particular ceremonies and circumſtances of Divine Worſhip, but left them to the prudence and power of the Apoſtles, to ſet in order (as St. <hi>Paul</hi> ſaid he would,) in the ſeveral Churches which they ſhould plant, and ſo to all ſuccee<g ref="char:EOLhyphen"/>ding Governours in all Ages, in their ſeveral Churches, to ap<g ref="char:EOLhyphen"/>point according to expediency in their ſeveral Precincts.</p>
+            <p>And this appears by,</p>
+            <p n="1">1. The different Ceremonies of the ſeveral Churches, which were not uniform but various, as the Obſervation of <hi>Eaſter</hi> in the <hi>Greek</hi> and <hi>Latin</hi> Churches. <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. By St. <hi>Ambroſe</hi>'s direction to conform to thoſe external
+<pb n="14" facs="tcp:40558:10"/> rites which they found in the ſeveral Churches they had occa<g ref="char:EOLhyphen"/>ſion to have Communion with.</p>
+            <p>And there are very good reaſons rendred by ſome, why Chriſt who took care for all the Subſtantials of his Worſhip, did not himſelf inſtitute the Circumſtantials. As</p>
+            <p n="1">1. To grace and gain authority unto the Apoſtles, in the Churches which they planted.</p>
+            <p n="2">2. Becauſe <hi>Moſes</hi> his Diſpenſation did not, nor was not to ceaſe till our Bleſſed Saviour was aſcended.</p>
+            <p n="3">3. That the circumſtance of Chriſtian Worſhip, that ſhould be after our Redemption wrought by him, might not be <hi>
+                  <g ref="char:V">Ʋ</g>m<g ref="char:EOLhyphen"/>bra futurorum,</hi> the Shadow of things to come, but <hi>Memoria praeteritorum;</hi> The Memorials of things paſt.</p>
+            <p n="4">4. The different faſhions of divers Countries, as to the ex<g ref="char:EOLhyphen"/>ternal modes of expreſſing their Reverence. Whereas the Laws which our Bleſſed Saviour himſelf preſcribed, concern all Chriſtians in all Countries. And therefore the circumſtan<g ref="char:EOLhyphen"/>ces of the Chriſtian Divine Worſhip could not be preſcribed in general, but were of neceſſity to be left to the appointment of the Apoſtles, and their Succeſſors in all ages.</p>
+            <p>And this is agreeable to the Scriptures, and the Doctrine of the Church of <hi>England,</hi> Eſtabliſhed by Law.</p>
+            <p>Concerning which, were men rightly Principled, there would not be ſo much Clamour againſt the innocent Ceremo<g ref="char:EOLhyphen"/>nies Eſtabliſhed by authority, and to be obſerved for Conſci<g ref="char:EOLhyphen"/>ence ſake in Obedience to the Magiſtrate; who as he is Gods hand to weild his Sword, ſo is he his mouth in ſuch caſes of indifferent circumſtances to declare his mind.</p>
+            <p>But what St. <hi>Auſtin</hi> writes concerning <hi>Fauſtus,</hi> is true of the generality of Diſſenters from the Church of <hi>England. Vel non intelligendo reprehendit, vel reprehendendo non intelligit. Sententiam Eccleſiae non intelligit, ſed amat ſuam, non quia vera eſt, ſed quia ſua eſt.</hi> That is, either not underſtanding he re<g ref="char:EOLhyphen"/>prehends, or reprehending doth not underſtand. He doth not underſtand what the Sentiments of the Church are; but loves his own, not becauſe they are true, but becauſe his own.</p>
+            <p>So hard is the lot of the Church of <hi>England,</hi> that by the <hi>Romiſh</hi> Synagogue it is condemned for having <hi>ſo few,</hi> and by
+<pb n="15" facs="tcp:40558:10"/> Diſſenters cryed out on for having <hi>ſo many;</hi> VVhereas in the eyes of ſober men it is valued according to its excellent tem<g ref="char:EOLhyphen"/>per, not exceeding to a <hi>burdenſome oppreſſion,</hi> nor defective in due comelineſs, <hi>by a ſlovenly rudeneſs.</hi> And no wonder ſince a decent and neceſſary ſubordination of inferiours to ſuperi<g ref="char:EOLhyphen"/>ours, as in a well Diſciplined Army, keeps all in a due cor<g ref="char:EOLhyphen"/>reſpondency of ſubjection and Government, and renders Our Church Glorious, as an Army with Banners.</p>
+            <p>Not as the Congregations of Diſſenters, who are like <hi>Pliny</hi> his <hi>Acephali, all body and no head.</hi> Or</p>
+            <p>As the <hi>Popiſh Paraſites</hi> have rendered their Synagogue like the <hi>Toadſtool, all head and no body.</hi> VVhilſt they ridiculouſly affirm; <hi>Papa virtualiter eſt Tota Eccleſia.</hi> VVell then</p>
+            <p>It is not ſome but all Gods Commandements thus made known; Thoſe which are neceſſary and moral by the Law, Engraven in the heart, and written in the Scriptures. Thoſe which are circumſtantial, and in themſelves indifferent, till de<g ref="char:EOLhyphen"/>termined by the mouth of God's Deputies. All theſe the fear of God will direct and encline to, and enable for.<note place="margin">
+                  <hi>Pſal.</hi> 119.6.</note> — <hi>Then ſhall I be upright, when I have reſpect to all thy Commandements.</hi>
+            </p>
+            <p>
+               <hi>Natura facit unum ad unum.</hi> But Grace makes us as a <hi>Del<g ref="char:EOLhyphen"/>phick Sword</hi> prepared for every good work.<note place="margin">2 <hi>Tim.</hi> 2:21.</note>
+            </p>
+            <p>Nature will permit the complyance with Gods will, and the doing, and it may be ſuffering many things, till it croſſeth our own wills, and ſo long we may ſeem to yield a ready obe<g ref="char:EOLhyphen"/>dience, as <hi>Herod</hi> did, who did many things, and heard <hi>John</hi> gladly, while VVind and Tyde go all one way, we ſayl rea<g ref="char:EOLhyphen"/>dily in our begun voyage, which ſtanding contrary, we think beſt to take harbour, or return whence we came. So when Gods Love, and the VVorlds Luſt appear in contrary quar<g ref="char:EOLhyphen"/>ters, we ſhall ſoon ſee whom we ſhall follow.</p>
+            <p>VVhat we take up as a cloak in a ſtorm for a ſhelter, or a diſguiſe, as a Covert to hide in time of Danger will be laid aſide when the ſtorm is paſt and the danger over.</p>
+            <p>But that reſpect to Gods command which flowes from a true fear of him will continue, and not be as an upper and looſe Garment, which we put on when we go abroad in the ſight and company of others, but hang upon a pin when we come
+<pb n="16" facs="tcp:40558:11"/> into our own houſes. But as our ſhifts to lye down in, yea as our skin never to put off.</p>
+            <p>Thus muſt we keep Gods Commands, <hi>all of them, and al<g ref="char:EOLhyphen"/>ways, and as, and becauſe they are Gods Commands,</hi> out of a pure Conſcience, and not out of ſelf reſpect.</p>
+            <p>
+               <hi>Jehu</hi> ſlew <hi>Ahab</hi> and <hi>Baals</hi> Prieſts, not out of reſpect to Gods command, but out of deſign in ſo doing to eſtabliſh his own Throne. For he ſtill kept up the Golden Calves, and their Idolatrous worſhip, to Gods diſhonour, and a clear evi<g ref="char:EOLhyphen"/>dence of his own hypocriſie. Men are very apt to have more tender reſentments of things as they check and claſh with their proper intereſt, than that they are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontrary to Gods com<g ref="char:EOLhyphen"/>mand.</p>
+            <p>As that Father gravely told that <hi>Arrian</hi> Emperour, who reproved him for ſhewing to his Son no more Reverence; That he had more reſpect to his Sons honour then to the ho<g ref="char:EOLhyphen"/>nour of the Son of God, whom he ſuffered to be diſhonoured by Hereticks.</p>
+            <p>Thus <hi>Demetrius</hi> left all the other Idols, which to him were Gods,<note place="margin">
+                  <hi>Act.</hi> 19.24, 25.</note> to ſhift for themſelves, but <hi>Diana</hi> which brought great gain, merited the engagement of all their powers in defence of her: Not for her ſelf, but the gain they had by her.</p>
+            <p>So the Pope in his <hi>Taxa Camerae Apoſtolicae</hi> rates the abſoluti<g ref="char:EOLhyphen"/>on for falſifying his Apoſtolical Letters at Nineteen groats, when inceſt with ones own Mother is taxed but at five groats only.</p>
+            <p>But the true Chriſtian acted by Gods fear, keeps Gods Commandements all of them, and as his commands, without any ſiniſter aims or ſelf reſpect; They follow not Chriſt for the loaves but for himſelf. They comply with all Gods Com<g ref="char:EOLhyphen"/>mands, not becauſe thereby they themſelves ſhall be benefited but God honoured. And this is that which is acceptable to God, and profitable to man; Which <hi>Solomon</hi> preſſeth in this Text, by three powerfull arguments and motions.</p>
+            <p n="1">1. It is the concluſion of the whole matter. <hi>Summa rei om<g ref="char:EOLhyphen"/>nis auditae.</hi>
+            </p>
+            <p n="2">2. It is the whole of man: <hi>Totus homo: Totum hominis.</hi> His duty and dignity.</p>
+            <p n="3">
+               <pb n="17" facs="tcp:40558:11"/>3. God will call all to an account. <hi>For God ſhall bring every work into judgment, with every ſecret thing, whether it be good or whether it be evil.</hi> —</p>
+            <p n="1">1. <hi>It's the Concluſion of the whole matter.</hi>
+            </p>
+            <p>We ſhould <hi>fear God and keep his Commandements, for it is the concluſion of the whole matter.</hi> So our Tranſlation.</p>
+            <q>La ſumme, le fin de tout le propos.</q>
+            <p>
+               <hi>La but a que tend ce que te enſeigne en ce leſure.</hi> So the <hi>French</hi> Tranſlation.</p>
+            <p>In the Original, the word rendered Concluſion, End, Scope, Sum, and <hi>But</hi> the word thus variouſly rendered, and all agre<g ref="char:EOLhyphen"/>ing to the mind of the Holy Ghoſt. I ſay the <hi>Hebrew</hi> word hath the firſt Letter in it bigger than the reſt, to ſtir up our greater attention to what follows.</p>
+            <p>And indeed it is worthy our chiefeſt regard, as containing in it the ſum of all Divinity as to our practiſe. Whatſoever was written from the beginning of this book of Scripture, yea of all the Holy Scriptures tends to this purpoſe.</p>
+            <p>All other books were written to mind the books of Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>And ſo are as goads to ſtir up, and nails to faſten us in the practiſe of this direction. The ſum of all Teachers, the end of all Learning.</p>
+            <p>
+               <hi>Solomon</hi> having through this whole book diſcourſed the va<g ref="char:EOLhyphen"/>nity and vexation of the creatures enjoyments, and from his own experience exemplified the truth of it, in theſe words he acquaints us when it is beſt to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t up our reſt. <hi>viz.</hi> In the learning and practiſe of this One <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſon, which is the whole of all that God requireth from us, in reference to our advancing of his Glory, and our Happineſs</p>
+            <p>And it is but juſt and reaſon, that he that is our Maſter ſhould have our fear; he that made us and maintains us ſhould have our ſervice:<note place="margin">2 <hi>Sam.</hi> 27.</note> he that is our Loving Father ſhould be ho<g ref="char:EOLhyphen"/>noured and obeyed by us; whom if we love, as <hi>Davids</hi> Soul<g ref="char:EOLhyphen"/>diers did him, what will we not adventure for his ſake, though it be as theirs was, with the higheſt hazard, and likelyhood of the greateſt dangers, as Fond Lovers do to gratifie a belo<g ref="char:EOLhyphen"/>ved
+<pb n="18" facs="tcp:40558:12"/> darling; Eſpecially conſidering that all his commands are juſt, equal, delightfull, or at leaſt made ſo to us by his love ſhed abroad in our hearts, ſo that we may joy and glory in enduring Tribulation in, and for the obſerving of his Pre<g ref="char:EOLhyphen"/>cepts,<note place="margin">1 <hi>Cor.</hi> 15.58. 2 <hi>Cor.</hi> 4.17. <hi>Iſa.</hi> 1.3.</note> conſidering the abundant reward. — <hi>Our Labour ſhall not be in vain,</hi> nor our ſuffering loſt, but ſhall <hi>work out for us a far more exceeding and eternal weight of glory.</hi> We expect Obedience from thoſe creatures we breed and maintain, and they uſually do yield it. <hi>The Oxe knows his Owner, and the Aſs his Maſters Crib;</hi> And if at any time they fail, how are we diſpleaſed.</p>
+            <p>If <hi>Balaams</hi> Aſs turn aſide, though his old acquaintance, how angry was he; if he lyes down how doth he ſtrike him, and wiſh for a Sword<g ref="char:punc">▪</g> If hawks and hounds fail in the perſuit of their games, how do the Owners and Uſers rage and chafe.</p>
+            <p>Hath not God then more right to expect our fear of him, and obedience to him, eſpecially conſidering he hath done in<g ref="char:EOLhyphen"/>finitely more for us than we do, or can, for any creatures, yea than he himſelf for all ſublunary creatures, making man the chief of his ways, and the choice of his works, his Maſter<g ref="char:EOLhyphen"/>piece. The Model of Heaven and Earth, of viſible and in<g ref="char:EOLhyphen"/>viſible, of mortal and immortal creatures, having compacted in him all the excellencies that are divided amongſt all other creatures; Whoſe Creation was not as of other creatures with his word, <hi>fiat</hi> Man, but upon a conſultation, let us make man. Other creatures Souls and Bodies made together, as having a mutual dependance: Man his Body firſt, and then his Soul, which was breathed from above, and not educed out of any Elementary ſubſtance.</p>
+            <q>
+               <l>Tantae molis erat Humanam condere gentem</l>
+               <l>Sanctius His animal mentisque Capacius altae.</l>
+            </q>
+            <p>VVhoſe face ſhews Gods wonderfull skill in its varieties and diſcoveries of inward paſſions.</p>
+            <p>His Soul One in Eſſence, Three in Faculties, Underſtand<g ref="char:EOLhyphen"/>ing, VVit, Memory, repreſents the unfathomable depth of the Divine Trinity, whoſe Created perfection had Bleſſed<g ref="char:EOLhyphen"/>neſs, Dominion and Prayer, Gods Attributes. VVhoſe re<g ref="char:EOLhyphen"/>ſtored condition mounts him above the Angels, who admire
+<pb n="19" facs="tcp:40558:12"/> the humane nature more than their own, and in the perſon of Chriſt adore it. So that man who by ſin was fallen ſo low that he could not well fall lower, is now by Grace reſtored to that height, that he cannot riſe higher. So that if this be true, that things are ſo much worth as they are bought by an accurate judgment and diſcretion; Then muſt man, both Body and Soul be of an excellent worth, that was bought not with cor<g ref="char:EOLhyphen"/>ruptible things, ſuch as Silver and Gold, but by the precious blood of Chriſt.<note place="margin">1 <hi>Pet.</hi> 1.19.</note>
+            </p>
+            <p>And this excellency that God firſt gave and reſtored to man calls for from us our fear of him, and obedience to him: who doth continue and enlarge this excellency here in this life, and prepares for the everlaſting duration of it, to all Eternity. For as it is the whole of Gods word the Scriptures, from the firſt to the laſt: So is it, which is the ſecond argument? <hi>The whole of man.</hi>
+            </p>
+            <p n="2">2. <hi>This is the whole of man.</hi>
+            </p>
+            <q>
+               <l>Totus homo. —Vulgar.</l>
+               <l>Totum hominis; —Tremellius.</l>
+            </q>
+            <p>
+               <hi>Hoc eſt omnium hominum: Piſcator.</hi> All men are obliged to this; Every one bound to it.</p>
+            <p>
+               <hi>Toda felicidad — Spaniſh.</hi> — All a mans happineſs, and the way to obtain it.</p>
+            <p>
+               <hi>The whole duty of man:</hi> Thus our <hi>Engliſh,</hi> in which he ought to exerciſe himſelf, and without which every man, even the higheſt is nothing but vanity:<note place="margin">
+                  <hi>Pſ.</hi> 39.5.</note> 
+               <hi>Verily every man in his beſt natural and worldly eſtate is altogether vanity.</hi> This is that which he ought to regard through his whole life in deeds and words.</p>
+            <p>All theſe interpretations may be Orthodoxly given to theſe words.</p>
+            <p>And the reſult of all is this. That the <hi>fearing God and keeping his Commandements is the whole.</hi>
+            </p>
+            <list>
+               <item>1. Priviledge.</item>
+               <item>2. Duty.</item>
+               <item>3. Happineſs of man.</item>
+            </list>
+            <p>So that what the Orator ſpeaks concerning Pronuntiation that it was the firſt, the ſecond and third part of a right Ora<g ref="char:EOLunhyphen"/>tor.
+<pb n="20" facs="tcp:40558:13"/> So may we ſay it is the firſt, ſecond and third, even the whole perfection of a good man, of a good Chriſtian — Its his</p>
+            <p n="1">1. Priviledge. Who of all ſublunary creatures is in a Ca<g ref="char:EOLhyphen"/>pacity of a Filial fearing, and rational and voluntary compli<g ref="char:EOLhyphen"/>ance with his will and command.</p>
+            <p>It's true indeed, the Devils do know and are capable of doing Gods Commandements, but not of a filial fear, or wil<g ref="char:EOLhyphen"/>ling obedience. In many things God makes uſe of them, in doing his command, but except it be to do miſchief it's againſt their wills.</p>
+            <p>The irrational Creatures indeed they do his Commande<g ref="char:EOLhyphen"/>ments. The Fire deſtroyed <hi>Sodom,</hi> the Water the Old VVorld; The Ravens fed <hi>Elijah,</hi> and the Lyon kild the young Prophet; But they know not what they did, and ſo are not capable of a filial fear, ſo cannot be ſaid to keep his command, no more than a Knife, or Sword, or Ax, that men make uſe of in their buſineſs.</p>
+            <p>It's only the priviledge of man amongſt all ſublunary crea<g ref="char:EOLhyphen"/>tures, that can fear him out of love, and obey him out of choiſe.</p>
+            <p n="2">2. The whole Duty of Man. Whatever God requires of man, both in reference to his inward reverence of the Soul, and the external Obedience of the whole Man is comprehended under theſe two Directions.</p>
+            <p>As all natural beings by <hi>Logicians</hi> are reduceable to one or other of the ten predicaments; all modes of being to the five predicables. As all we believe to the twelve articles of the Creed. As all we pray for to one or other of the Petitions of the Lords Prayer.</p>
+            <p>So is it in this caſe. The whole duty that God expects from man is reduceable to one of theſe; <hi>The fear of God and keep<g ref="char:EOLhyphen"/>ing his Commandements.</hi>
+            </p>
+            <p>All the lines of divine truth, even from the whole circumfe<g ref="char:EOLhyphen"/>rence of it, meet in this Center. So that whatever is largely written in the Scriptures for our learning and practiſe is con<g ref="char:EOLhyphen"/>tracted in this compendium and whatſoever is contrary unto theſe, to either of them, hath nothing of God's truth, or Man's duty in it.</p>
+            <pb n="21" facs="tcp:40558:13"/>
+            <p>And by this we may determine, as of all matters of practiſe that are to be done by us; So likewiſe of all <hi>Dogmata,</hi> matter of belief or opinion that are propoſed by any to be embraced, whether they be God's ſaving truths, or the errors of deceiv<g ref="char:EOLhyphen"/>ers, and the fancies of mens brains, bring them to this Teſt, and they will quickly appear what they are. Yea ordinary capacities without any extraordinary learning, may be able as far as it concerns themſelves to prove all things,<note place="margin">1 <hi>Theſ.</hi> 5.21. <hi>Gen.</hi> 1.1. <hi>Rev.</hi> 22.13, 21.</note> that ſo they may hold faſt that which is good.</p>
+            <p>It is a good obſervation that one makes, that the Scriptures begin with, In the beginning, and end with Amen: which ſignifieth Truth; Shewing that they contain in them which no other writings do — <hi>Et vetuſtiſſimum &amp; veriſſimum;</hi> what is eldeſt? what is trueſt? And indeed what is not antient is not true. Truth is of God: Error is of the Devil; So that what is not Old Divinity is not true Divinity, though it come from the Councel of <hi>Trent,</hi> the Conclave of Cardinals, with their pretended infallible Inſpirers, the Pope and the Devil, or Conſult of Jeſuites.</p>
+            <p n="3">3. It's mans whole happineſs and excellency. This diſtin<g ref="char:EOLhyphen"/>guiſheth him from, and prefers him before all others, though never ſo great and glorious in the world.</p>
+            <p>
+               <hi>Job</hi>
+               <note place="margin">Job</note> who feared God and eſchewed evil was acknowledged by God himſelf to be the <hi>None-ſuch</hi> of his time.</p>
+            <p>The Righteous is more excellent than his Neighbour;<note place="margin">Pro:</note> Let him be what he will, if he be not Righteous.</p>
+            <p>In Gods account who knows beſt how to eſteem, and whoſe honourable approbation is of greateſt weight and worth in the eyes of good men, who deſpiſe vile perſons,<note place="margin">
+                  <hi>Pſal.</hi> 15.</note> yea in the eyes of wicked men themſelves. All men held <hi>John</hi> for a Prophet, yea <hi>Herod</hi> reverenced him in his heart, though he was over<g ref="char:EOLhyphen"/>ſwayed by an Impudent Harlot, to command his Death. And in real worthineſs, as being and having that in him which makes a man, and will keep him happy. <hi>If you know theſe things, happy are ye if you do them.</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 13.17.</note>
+            </p>
+            <p n="3">3. God will call to account.</p>
+            <p>
+               <hi>For God ſhall bring every work into judgment, with every ſe<g ref="char:EOLhyphen"/>cret thing, whether it be good or whether it be bad.</hi> ver. 14.</p>
+            <pb n="22" facs="tcp:40558:14"/>
+            <p>A preſſing and powerfull argument if well weighed, to en<g ref="char:EOLhyphen"/>force upon us the care of <hi>fearing God and keeping his Commande<g ref="char:EOLhyphen"/>ments:</hi> That we ſhall be moſt certainly brought to an account whether we do or do not.</p>
+            <p>VVe are not Lords Paramount that may do as we pleaſe, and live as we liſt, and there's an end. No, but an account muſt be rendered, and therefore we have great reaſon to ſee to it, that our Thoughts, VVords and VVorks may be ſuch as may correſpond with Gods fear, and comply with his Com<g ref="char:EOLhyphen"/>mand, our Dignity and Duty.</p>
+            <p>For though by our greatneſs we may bear it out, and by our policy conceal, what evil we do, from man, yet we cannot eſcape Gods Hand, which is Omnipotent, nor his Eye, which is Omniſcient, and ſo knows what we have done, and though he doth not always in this Life, which we may all juſtly fear, and he many times doth, yet he will moſt aſſuredly hereafter bring us into judgment for it.</p>
+            <p>And the minding of this would be our wiſdom, and prove a great reſtraint from evil, and encouragement unto good.</p>
+            <p>And unto this end we find the conſideration often made uſe of in the holy Scriptures. Thus <hi>Solomon</hi> makes uſe of it as a Bridle to reſtrain the Luſtfull extravagancies of unruly Youth: VVhen by an Ironical Conceſſion, he ſeems to invite a Young Man to rejoyce. Let his heart chear him in the days of his Youth, to walk in the ways of his heart, and the ſight of his eyes. But again powerfully to reſtrain him with this conſidera<g ref="char:EOLhyphen"/>tion.<note place="margin">
+                  <hi>Eccl.</hi> 11.9.</note> 
+               <hi>But know thou that for all theſe things God will bring thee into judgment.</hi>
+            </p>
+            <p>Thus St. <hi>Paul</hi> doth ingeniouſly confeſs, that by the remem<g ref="char:EOLhyphen"/>brance of this, he was ſtirred up, and aſſiſted in, and unto a holy and incorrupt miniſtration of his Office:<note place="margin">2 <hi>Cor.</hi> 5.11.10.</note> 
+               <hi>Knowing the Terrors of the Lord we perſwade men. — For we muſt all appear before the judgment ſeat of Chriſt, that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.</hi>
+            </p>
+            <p>Thus the ſame Apoſtle exhorts the <hi>Athenians</hi> to Repent<g ref="char:EOLhyphen"/>ance, becauſe God had appointed a day wherein he would judge the world.<note place="margin">
+                  <hi>Act.</hi> 17.31.</note>
+            </p>
+            <pb n="23" facs="tcp:40558:14"/>
+            <p>And though mockers may ſcoff, and think it afar off, becauſe the ſigns of it are not yet come, yet alas.</p>
+            <p>Though the general judgment may not ſurprize them, yet the day of their death will, which will be to them a day of judgment, and all will certainly be found at the great day, as they are found at that hour. And if the time would bear it, it were worth a larger conſideration. How Emphatically <hi>So<g ref="char:EOLhyphen"/>lomon</hi> lays down this argument, which I cannot at preſent but briefly lay before you.</p>
+            <p>In which fourteenth verſe of this Chapter, concerning Gods judgment: VVe may obſerve theſe five things.</p>
+            <list>
+               <item>1. The unavoidableneſs of it.</item>
+               <item>2. The certainty of it as to the thing: and the uncertainty as to the time.</item>
+               <item>3. The generality and exactneſs of it.</item>
+               <item>4. The Righteous proceeding in it.</item>
+               <item>5. The directing of the ſentence according to deſert.</item>
+            </list>
+            <p n="1">1. The unavoidableneſs: God ſhall bring, whom none can eſcape or delude.</p>
+            <p>Here many culpable perſons make ſhift to eſcape by ſecre<g ref="char:EOLhyphen"/>ſie, hiding, flying or corruption. But there is no ſuch deal<g ref="char:EOLhyphen"/>ing with God, with whom we have to do, by whoſe autho<g ref="char:EOLhyphen"/>rity the judgment ſhall be, though Chriſt be the Adminiſtrator of it, and the Saints ſhall give their Approbation. As the Kings Majeſty by his Deligated Judges, and the aſſiſtance of others, in Commiſſion with them perform Judgment amongſt Men.</p>
+            <p>God then being Judge, he hath, as Inferior Judges, his Deputies ought to have, and are ſuppoſed to have, what ever is requiſite, and is ever neceſſary. <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>1. Knowledge.</item>
+               <item>2. Power.</item>
+               <item>3. Uprightneſs.</item>
+            </list>
+            <p n="1">1. Knowledge to diſcern.</p>
+            <p>As <hi>Solomon</hi> had, who having the Scepter in his hand, had an eye in his head to diſcern whoſe the living Child was.</p>
+            <p>Juſtice is indeed uſually painted blind, but that is as to per<g ref="char:EOLhyphen"/>ſons not cauſes.</p>
+            <p>Blind <hi>Iſaac</hi> that would try by feeling, placed the Bleſſing
+<pb n="24" facs="tcp:40558:15"/> where he would not,<note place="margin">1 <hi>Sam.</hi> 12.3.</note> and blinded Judges (and you know the Scripture tells us, what will blind them) uſually place it where they ſhould not.</p>
+            <p>But God is Omniſcient, and cannot be deluded nor deceiv<g ref="char:EOLhyphen"/>ed:<note place="margin">
+                  <hi>Heb.</hi> 4.13.</note> All things to him are naked and bare.</p>
+            <p n="2">2. Power to ſee their judgment executed, otherwiſe they will be contemned, and authority fully to end and determine its appeals will be made nought of, and matters will run in a circle and endleſs <hi>Labyrinths.</hi> But God is Omnipotent and Supreme, there is no reſiſting of him, nor appealing from him.</p>
+            <p n="3">3. Uprightneſs in paſſing ſentence.</p>
+            <p>The <hi>Egyptians</hi> in their <hi>Hieroglyphicks</hi> deſcribe Juſtice as an Angel without hands, that he may not receive gifts, and winking or without eyes, that he might not reſpect perſons.</p>
+            <p>The Perſon of a Judge muſt not take the perſon of a Friend, but be as <hi>Levi</hi> that knew neither Father nor Mother.</p>
+            <p>We uſually paint Juſtice with a Ballance in one hand, and a Sword in the other, to weigh and execute. If Juſtice in paſ<g ref="char:EOLhyphen"/>ſing, and care in executing the Sentence paſſed be wanting, Knowledge and Power will be to no purpoſe. But God will do what is juſt,<note place="margin">
+                  <hi>Job</hi> 8.3.</note> and will not pervert Juſtiee. With him a pure heart is better than a ſmooth word, and a good Conſci<g ref="char:EOLhyphen"/>ence than a good Purſe.</p>
+            <p n="2">2. The certainty of it as to the thing, the uncertainty as to the time.</p>
+            <p>He will, he ſhall.</p>
+            <p>To lay down arguments in this Auditory, to prove what we profeſs an Article of our Faith, would be very imperti<g ref="char:EOLhyphen"/>nent. The Scripture poſitively aſſerts it, and all Gods At<g ref="char:EOLhyphen"/>tributes undeniably evince it. As his</p>
+            <p n="1">1. Power. God will have it ſo for the manifeſtation of his infinite Power.<note place="margin">2 <hi>Cor.</hi> 5.10.</note> 
+               <hi>He will bring all to Judgment; We muſt all appear.</hi> And that is a work of Almightyneſs, to raiſe and revive the dead. But there is nothing impoſſible to an Omni<g ref="char:EOLhyphen"/>potent Arm.</p>
+            <p n="2">2. Wiſdom. It's a poynt of Wiſdom to bring a thing to its appoin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed end. Now the end that God made man for was not to live in this World for ever, but to ſerve him here and
+<pb n="25" facs="tcp:40558:15"/> afterwards enjoy him to all Eternity, which cannot be done without a judgment firſt determining of us.</p>
+            <p n="3">3. Truth. He hath ſpoken and cannot but fulfill it, he hath appointed a day wherein he will judge the World.<note place="margin">
+                  <hi>Act.</hi> 17.31.</note>
+            </p>
+            <p>Men may break their words, God will not: He knows his appointed day, and will keep it.</p>
+            <p>— His Juſtice and Mercy doth enforce it. It is the pro<g ref="char:EOLhyphen"/>perty of Juſtice to recompenſe to every man his own: Mer<g ref="char:EOLhyphen"/>cy to whom Mercy,<note place="margin">
+                  <hi>Pſal.</hi> 101.1.</note> and Judgment to whom Judgment ap<g ref="char:EOLhyphen"/>pertaineth.</p>
+            <p>Now here in this World we ſee it not done. The wicked many times flouriſh when the righteous ſuffer. <hi>Naboth</hi> is ſto<g ref="char:EOLhyphen"/>ned, <hi>Joſeph</hi> is in Priſon. If the World ſhould always laſt where were Gods Juſtice and Mercy, and therefore for the manifeſtation of theſe, there muſt be a day of Retribution. <hi>Dives</hi> muſt have his evil things, <hi>Lazarus</hi> muſt have his good, which here they have not.</p>
+            <p>All Gods attributes require that God ſhould bring every thing, and every man to judgment, as moſt certainly he will, and therefore we ſhould as St. <hi>Hierome</hi> tells us he did, what ever he was a doing, remember and imagine that he heard that voice; <hi>Ariſe ye dead and come to Judgment.</hi>
+               <note place="margin">
+                  <hi>Math.</hi> 24.31.</note>
+            </p>
+            <p n="3">3. The Generality and Exactneſs of it.</p>
+            <p>VVe muſt all: we muſt every one for every thing There is no anſwering as in Humane Courts by a Proxy.</p>
+            <p>God doth not deal in a lump, by paſſing ſentence on all men and all things together, Condemn all or Acquit all. No, but he makes a Separation, and diſtinguiſheth between good and bad.</p>
+            <p>Here indeed <hi>Solomon</hi> tells us they fare all alike, but hereaf<g ref="char:EOLhyphen"/>ter there will be a diſtinction made and manifeſted.<note place="margin">
+                  <hi>Math.</hi> 25.32.</note> Now Goats and Sheep feed and ſold together, then will be ſepera<g ref="char:EOLhyphen"/>ted. Tares muſt be let alone and grow with the Corn till the day of Harveſt, but at laſt their will be a ſeparation. Chaff and VVheat lye in the ſame floor till the fan cometh. Here men as Travaillers in a journey paſs together, lodge together, but in the Morning part; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood and bad are here mingled toge<g ref="char:EOLhyphen"/>ther; But then it will be known which were <hi>Jacob</hi>'s, which
+<pb n="26" facs="tcp:40558:16"/> were <hi>Labans</hi> Flock; Masks and Vizards and Paint will be then ſtripped of, then all ſhall appear as they are.</p>
+            <p n="4">4. The Righteous proceeding.</p>
+            <p>He will bring to judgment. God will not ſentence firſt and judge afterwards: but firſt weigh, judge, and then ſentence.</p>
+            <p>Neither will he ſentence <hi>ex proprio motu</hi> by his own will and pleaſure, but according unto evidence and good proof: For the Books ſhall be opened, and by them ſhall men be tryed.</p>
+            <p>
+               <note place="margin">
+                  <hi>Rev.</hi> 20.12.</note>Now there are three Books, by, and out of, and according to which the judgment ſhall be.</p>
+            <list>
+               <item>1.<note place="margin">
+                     <hi>Rom.</hi> 2.14.</note> Of Nature: By this the <hi>Gentiles</hi> ſhall be tryed.</item>
+               <item>2. Of the Scriptures, by this thoſe that lived in the Church ſhall be tryed. — The Books of the
+<list>
+                     <item>1. Law, who lived under the Law ſhall be judg<g ref="char:EOLhyphen"/>ed by the Law.</item>
+                     <item>2. Goſpel. So St <hi>Paul</hi> tells the Chriſtians, God ſhould judge the ſecrets of all hearts by the Goſpel he preacht</item>
+                  </list>
+               </item>
+               <item>3. Conſcience. So both ſhall be judged by the Books of their own Conſcience, for what they have Tranſgreſſed againſt the Books of Nature or Scriptures; which will then witneſs what is now recorded in them.</item>
+               <item>Conſcience may be now as a book clapſed, which men do not read in,<note place="margin">
+                     <hi>Gen.</hi> 44.</note> and ſo not mind their ſins, as <hi>Joſeph</hi>'s Bre<g ref="char:EOLhyphen"/>thren did not theirs, till in their diſtreſs, and then will they not? they muſt read all. — And Laſtly.</item>
+            </list>
+            <p n="5">5. The Sentence will be paſt diſtinctly.</p>
+            <p>As on all good and bad: So whether it be good, or whe<g ref="char:EOLhyphen"/>ther it be bad. God will not involve all promiſcuouſly, for that is far from him who is the great Judge of all the Earth, and therefore he will do right,<note place="margin">
+                  <hi>Gen.</hi> 18.23.</note> and not make the Righteous as the VVicked, as <hi>Abraham</hi> in his Prayer pleads with God. But God will then ſay,
+<list>
+                  <item>1. Come ye Bleſſed to his Sheep: that hear his Voice: <hi>Fear him and keep his Commandements.</hi>
+                  </item>
+                  <item>2. Go ye Curſed to the Goats: who have ſaid depart from us, we deſire not the knowledge of thy Law.</item>
+               </list>
+            </p>
+            <pb n="27" facs="tcp:40558:16"/>
+            <p>And thus Honourable, Right VVorſhipfull, VVorſhipfull and Beloved, I have laid before you with what brevity I could, what the Doctrinal part of theſe words acquaint us with, and have put Oyl in your Lamps by Doctrinal Inſtruction, what now remains, but that I put Fire to it by ſome practical.</p>
+            <div type="application">
+               <head>APPLICATION.</head>
+               <p>VVhich ſhall be only in a word of Exhortation. Humbly to beſeech you as your Orator, and earneſtly to require you as Gods Embaſſador, to ſee to it, that whatever you do in all your Tranſactions, whether publique or private, in your po<g ref="char:EOLhyphen"/>litique and perſonal capacities, as Magiſtrates, Miniſters, Chriſtians, I ſay that whatever you do you be carefull, that for all your Thoughts, VVords and VVorks, there may be nothing which may not,</p>
+               <p>Comply with Gods fear.</p>
+               <p>Correſpond with Gods Command.</p>
+               <p>Comport with man's dignity, duty and happineſs.</p>
+               <p>Stand approved through Gods mercy, and gracious accep<g ref="char:EOLhyphen"/>tation in Gods judgment.</p>
+               <p>Certainly theſe reflections would have powerfull influence on us, to regulate all our carriage. <hi>Seneca</hi> gave his Friend <hi>Lucilius</hi> this Counſel, that what ever he was doing, <hi>He ſhould imagine ſome of the Roman <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orthies did behold him, and then he would do nothing diſhonourable.</hi>
+               </p>
+               <p>So let us ſay with <hi>Hagar; Thou Lord ſeeſt me;</hi> and with <hi>David, I have ſet the Lord alwayes before me.</hi> Of whom it is moſt true what the Poets feign of <hi>Minerva</hi>'s Picture, that it was drawn with that Art, that look what way ſo ever a man turned himſelf, her eyes were ſtill upon him. For he is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> all eye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vvho ſeeth and vveigheth, and tryeth and ſentenceth, and as he puniſheth all evil, ſo will he reward all faithfull Servants.</p>
+               <p>Others cannot reward all their followers, as having not wherewith, and others will not, as being illiberal and ſordid, but God is able, becauſe <hi>Lord of all,</hi> and vvilling, becauſe <hi>Rich unto all.</hi>
+               </p>
+               <p>Theſe conſiderations, ſhall vve not be vvanting to our ſelves, vvould have a very great influence on all of us, but eſpecially on ſuch who are</p>
+               <pb n="28" facs="tcp:40558:17"/>
+               <p>In Publique Place, Truſt and Employment, Magiſtrates and Miniſters.</p>
+               <p>That they do not with their ill practiſes and examples over<g ref="char:EOLhyphen"/>throw that good, which by their Authority and Preaching they do or ſhould promote. It were a happy thing, and much to be deſired, that there were none that did ſo; But that cannot be expected, and we find by ſad experience, that it ever was, and will be ſo. In <hi>Aarons</hi> Line there was a <hi>Nadab</hi> and <hi>Abi<g ref="char:EOLhyphen"/>hu;</hi> In <hi>Eli</hi>'s Family are an <hi>Hophni</hi> and a <hi>Phineas.</hi> But it is no wonder, for amongſt the Angels ſome fell, and there was a <hi>Judas</hi> amongſt the Apoſtles.</p>
+               <p>And it is moſt certain, that the generality of the people, as <hi>Labans</hi> Ewes conceived according to the colour of the Rods, that were ſet before them; So are they ſwayed by the prac<g ref="char:EOLhyphen"/>tiſe of others, eſpecially their Rulers and Teachers.</p>
+               <q>Jupiter ipſe fuit, Ego non Homuncio?</q>
+               <p>But <hi>Elihu</hi> tells us: <hi>Great men are not always wiſe, neither do the aged underſtand judgment.</hi> I and my Ruler, I and my Teacher, if the practice be evil, there will be no good Plea at the laſt day: for ſo might the <hi>Jews</hi> excuſe themſelves, who had the high Prieſts to go before them, and perſwade them to Crucifie our Saviour.</p>
+               <p>Eminent Perſons intruſted with publique inployments are as looking glaſſes to the places wherein they live, whereby the people dreſs themſelves, who falling into open ſins, like men in a crowd, many fall with them; Mens Souls being as apt to be infected by ill examples, as their bodies by ill air. <hi>Peter</hi> at <hi>Antioch</hi> diſſembling,<note place="margin">
+                     <hi>Act.</hi> 11.</note> dravvs <hi>Barnabas</hi> into the ſame error.</p>
+               <p>Publique perſons then have great cauſe often to put an avve upon themſelves, by ſuch reflections. Doth my Carriage correſpond vvith God's fear and command, my duty and ac<g ref="char:EOLhyphen"/>count? That ſo they may have their Carriage inoffenſive. For in all their viſible miſcarriages there is a double ſin: <hi>The Fact,</hi> and <hi>the Example.</hi> The vulgar being their ſhadovvs to follovv their ſteps, and ſo vvill bring a double puniſhment on their ſelves and charges. Hence <hi>David</hi> prays for <hi>Zion</hi> as vvell as for himſelf.<note place="margin">
+                     <hi>Pſ.</hi> 51.5.</note> — Let ſuch ſay than vvhen tempted to evil as <hi>Nehemiah,</hi> and ſhall ſuch a man as I fly?</p>
+               <pb n="29" facs="tcp:40558:17"/>
+               <p>Upon all which conſiderations, give me leave I beſeech you, Right Worſhipfull, Worſhipfull, who are intruſted with the Government of this Honourable, Ancient and Famous City, to perſwade you to a diligent care, rightly to diſcharge that truſt, that Gods providence, his Majeſties Charter, and your Brethrens choice, have impowered you for, and called you to.</p>
+               <p>And I can no better do it than by laying before you that fa<g ref="char:EOLhyphen"/>mous inſtance, which in all its circumſtances is applicable to you. That excellent charge which that good King <hi>Jehoſaphat</hi> gave his Judges and Magiſtrates,<note place="margin">2 <hi>Chr.</hi> 19.6.7.</note> which he by his Royal Charter Eſta<g ref="char:EOLhyphen"/>bliſhed in the Cities of <hi>Judah.</hi>
+               </p>
+               <p>
+                  <hi>Take heed what you do, for you judge not for man but God.</hi> 2. <hi>Chron.</hi> 19.6, 7. And this he enforceth with arguments, and leaves directions for. <hi>Let the fear of the Lord be upon you, take heed and do it.</hi> He impowered them by his Charters, and en<g ref="char:EOLhyphen"/>joyns them to diſcharge their duty, to judge juſtly, to do no<g ref="char:EOLhyphen"/>thing raſhly, unadviſedly, but in all their proceedings to uſe a heedfull circumſpection.</p>
+               <p>They were not to be idle, or as <hi>Gallio,</hi> careleſs and negli<g ref="char:EOLhyphen"/>gent, but they were <hi>to do.</hi> They were not to be wilfull, and to do what they pleaſe, but they were to <hi>obſerve and do,</hi> both according to God, and the Kings Laws, and the true ſtate of the particular matters that were brought before them. They were not to be raſh and inconſiderate in haſt, and careleſs, but to ſee what they did, leaſt as <hi>David,</hi> they may paſs a wrong Sentence, and injure a faithfull <hi>Mephiboſeth,</hi> upon the flatteries and inſinuating calumnations of a treacherous and falſe hearted <hi>Ziba.</hi>
+               </p>
+               <p>Lo this was the charge that good Prince laid upon his Deli<g ref="char:EOLhyphen"/>gated Magiſtrates, whom he had Eſtabliſhed from City to City.</p>
+               <p>He gave them Power under him to act, he gives them direc<g ref="char:EOLhyphen"/>tions how to act. They might not uſurp a power without his Charter, they might not neglect to execute that power com<g ref="char:EOLhyphen"/>mitted to them by his Charter. But he enjoyns them to do, and not be idle, to take heed and ſee to it, that they did accor<g ref="char:EOLhyphen"/>ding to the Law and Juſtice, and not be willfull, raſh and negli<g ref="char:EOLhyphen"/>gent, and to prevail with them ſo to do, he preſſeth upon them the <hi>fear,</hi> the <hi>pattern</hi> and <hi>preſence</hi> of God.</p>
+               <p>I ſhall not undertake to direct you in particulars, only in ge<g ref="char:EOLhyphen"/>neral to recommend unto you the conſideration of God's <hi>fear,</hi> God's <hi>command,</hi> your own <hi>duty, dignity</hi> and <hi>account;</hi> And then
+<pb n="30" facs="tcp:40558:18"/> certainly you will diſcharge the duty of your places, according to your names and powers, God and mans expectation from you.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Hoſ.</hi> 4.18. <hi>Judg.</hi> 18.7.</note>You will then be what God calls you, <hi>Sheilds.</hi> And ſo de<g ref="char:EOLhyphen"/>fend the innocent and well-doer; <hi>Heirs of Reſtraint</hi> to curb the extravagant exorbitances of the Sons of <hi>Belial.</hi>
+               </p>
+               <p>
+                  <hi>Healers.</hi> To make up, and not make wider any incident breaches that may and will unavoidably ariſe, when many are concerned in the management of the ſame power.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 78.71.</note>
+                  <hi>Shepherds.</hi> And ought therefore with earneſt care, as <hi>Jacob</hi> did <hi>Laban</hi>'s Sheep, to feed the Lords Flock, aiming at the good of their charge, and not their own advantage, who muſt loſe themſelves in the common right, as Rivers their names and natural qualities in the main Ocean.<note place="margin">
+                     <hi>Eſt.</hi> 10.3.</note> Thus <hi>Mordicai</hi> ſought <hi>his Peoples welfare,</hi> and ſeeking Gods glory and not their own, as <hi>Joab</hi> did <hi>David</hi> at the ſeige of <hi>Rabbah,</hi> ſince God is jealous of his glory, aad keeps that for himſelf; As <hi>Potiphar</hi> did his Wife, when he gives us all things elſe.</p>
+               <p>
+                  <note place="margin">1 <hi>Sam.</hi> 12.3.4.</note>And ſhall you be able to ſay as good <hi>Samuel</hi> did; —<hi>Witneſs againſt me: w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſe Ox or Aſs have I taken, whom have I defraud<g ref="char:EOLhyphen"/>ed or oppreſſed, of whoſe hand have I received any bribes to blind mine eyes therewith?</hi> Or receive as he did a Teſtimony of his In<g ref="char:EOLhyphen"/>nocency; Then you may ſay with comfort as <hi>Nehemiah</hi> did. <hi>Remember me O my God concerning this,</hi>
+                  <note place="margin">
+                     <hi>Nehe.</hi> 13.22. <hi>Iſa.</hi> 38.3.</note> 
+                  <hi>and ſpare me according to the greatneſs of thy mercy.</hi> — And as good <hi>Hezekiah</hi> did. <hi>Re<g ref="char:EOLhyphen"/>member now O Lord! How I have walked before thee in truth, and with a perfect heart, and have done what is good in thy ſight.</hi> And with our Saviour;<note place="margin">
+                     <hi>Joh.</hi> 17.4.5.</note> 
+                  <hi>Father I have finiſhed the work which thou gaveſt me to do; I have glorified thee on earth, and now glorifie thou with thine own ſelf.</hi>
+               </p>
+               <p>
+                  <hi>Fathers.</hi> And ſo muſt when need is preſt with a weeping eye and tender heart, as <hi>Joſhua</hi> did <hi>Achan.</hi>
+               </p>
+               <p>Correction muſt be, but it may not be delighted in, but be as it is in God his ſtrange work, and ought to be undertaken as War and Law in caſe of neceſſity, for preſervation of right and peace.</p>
+               <p>Magiſtrates are Fathers, and therefore muſt mind the good of the whole Family.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Phil.</hi> 2.7.8. <hi>Pal.</hi> 82.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>&amp;c.</hi>
+                  </note>Worldly Polititians are all for themſelves, but the good Chriſtian Magiſtrate, as their Maſter Chriſt for the good of others.</p>
+               <p>
+                  <hi>Gods.</hi> And ſo ought not to be flexible but conſtant, not to be prevailed upon, or perſwaded from doing right by the importu<g ref="char:EOLhyphen"/>nity
+<pb n="31" facs="tcp:40558:18"/> of Friends, not covetous as <hi>Feſtus,</hi> not timerous as <hi>Pilate,</hi> who was affrighted to the condemning of Chriſt, by the <hi>Jews:</hi> telling him if he did not, he was not <hi>Caeſars</hi> Friend, not reſpect perſons, not take rewards or gifts, either by himſelf or his man <hi>Eliſha,</hi> or his Mans man <hi>Gehazi.</hi>
+               </p>
+               <p>Thus ſhall you reflect upon your names, diſcovering what your duty is, you will with your own conſent manage your power, and ſo have the Teſtimony of a good Conſcience, be accepta<g ref="char:EOLhyphen"/>ble to your Brethren, and approved of God.</p>
+               <p>To conclude all, let us know that it is the want of the fear of God, and a due regard to his Commandements, the not reflect<g ref="char:EOLhyphen"/>ing on our duty and dignity: the not minding our account, that is the cauſe of all the diſorder in the World.</p>
+               <p>This is that which makes Magiſtrates pervert judgment, and prefer their own private advantage before the publique vvelfare. Miniſters ſo extravagant and regardleſs of their Duty and <hi>Deco<g ref="char:EOLhyphen"/>rum</hi> in their habit and language, and publick converſe. Lavvyers, both Counſellors and Sollicitors, prey upon the paſſions and ſim<g ref="char:EOLhyphen"/>plicity of their Clients, and ſo render the Lavv, vvhich is good and neceſſary, and without which there can be no comfortable living, yet a burthen rather than an advantage. For ſo we ſee it comes to paſs that the remedy uſually proves worſe than the di<g ref="char:EOLhyphen"/>ſeaſe. And we find by dayly experience that if the matter be not of extraordinary value, it were better for mens both quiet and profit, to ſet down looſers, and never try for it; For uſually in the iſſue, the Lawyers Purſe proves as the Butlers Box, that is ſure to gain, and the indiſcreet litigants fare as the Sheep that go to a Bramble for ſuccour, leave a part of his fleece behind him.</p>
+               <p>The want of theſe reflections makes many Traders in the world uſe all manner of deceits, and to learn from the Devil to make their bargains; as he would have done with our Saviour, who,</p>
+               <p n="1">1. Choſe a place for a counterfeit deluſion; Hence their ſha<g ref="char:EOLhyphen"/>dows and falſe lights.</p>
+               <p n="2">2. Commend the goodneſs of their ware, and never diſcover the evil, as Satan told Chriſt of the glory of the Kingdoms of the World, but not a word of the trouble.</p>
+               <p n="3">3. Satan came with lies, and falſe brags.</p>
+               <p n="4">4. Pretends the dealers advantage, when they intend their loſs.</p>
+               <p>Thus many dealers for want of a due reflection, or God's fear and command, their own duty, dignity and account, manifeſtly
+<pb n="32" facs="tcp:40558:19"/> ſhew that whoſe Apprentices ſo ever they were, they have learnt of another Maſter.</p>
+               <p>The want of theſe reflections makes Maſters deal hardly with their Servants, and Servants untruſty to their Maſters; Parents deal unkindly and bitterly with their Children, Children deal un<g ref="char:EOLhyphen"/>thankfully and rebelliouſly with their Parents; Superiors ſcorn and oppreſs their Inferiors, Inferiors repine and rail at their Su<g ref="char:EOLhyphen"/>periors, Conformable men revile Diſſenters, Diſſenters break the peace of the Church, under pretence of Conſcience men grow debaucht and effeminate: women grow proud, fooliſh and fan<g ref="char:EOLhyphen"/>taſtick; Moſt to prevaricate from the duty, dignity and decen<g ref="char:EOLhyphen"/>cy of their places.</p>
+               <p>To ſhut up all, I beſeech you Men, Fathers and Brethren, Honorable, Worſhipfull and Beloved; Let the fear of God be upon you, have a conſcientious regard to his Commandements, your own dignity, duty and account, and this will be powerfull to anſwer all the temptations you may be aſſaulted with.</p>
+               <p>Are you tempted as <hi>Joſeph,</hi> or as <hi>David</hi> with a naked <hi>Bethſhe<g ref="char:EOLhyphen"/>ba?</hi> (and who can prevent that temptation either in Streets or Churches? though the immodeſt licentious liberty of ungover<g ref="char:EOLhyphen"/>nable women,<note place="margin">
+                     <hi>Iſa.</hi> 3.24.</note> whoſe nakedneſs through wantonneſs may be juſtly followed with a nakedneſs through want) hovvever you may be tempted, reflect upon theſe conſiderations; The fear of God, his commands, your ovvn dignity, duty and account, and this vvill reſtrain and regulate your carriage.</p>
+               <p>And let it be all our indeavour, that the vvhole of our conver<g ref="char:EOLhyphen"/>ſations in all our ſeveral ſtations, may comport vvith Gods fear, comply vvith Gods commands, correſpond vvith the duty, dig<g ref="char:EOLhyphen"/>nity and happineſs of Men, of Chriſtians. Shevv your ſelves men. Act not as Brutes, Goats, Svvine, Dogs, VVolves, Serpents, Vipers, for by all theſe names vvicked men are deſcribed. But</p>
+               <p>Conſider vvhat becomes us in our ſeveral places and ſtations.</p>
+               <p>Conſider vvhat is by God Almighty commanded on us.</p>
+               <p>Conſider the great and dreadfull account that muſt be given by us.</p>
+               <p>Deal uprightly, faithfully, conſcientiouſly in our places, ac<g ref="char:EOLhyphen"/>cording to the rules of Gods word, and the motions of his Spirit, and the dictates of a ſanctified and inlightned Conſcience, and in ſo doing we may aſſure our ſelves of the comforts of grace here, and eternal happineſs hereafter.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40558:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
